@@ -1,0 +1,7 @@
+Turner 18 12 Science
+Hlavaty 24 4 CATE
+Busby 8 4 Math
+Page 4 4 Science
+Newsom 15 10 CATE
+Gerberman 9 9 English
+Wollam 20 15 History

@@ -1,0 +1,5 @@
+hello 9
+funny 6
+chicken 4
+dog 1
+cat 2
